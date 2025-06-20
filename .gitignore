@@ -1,0 +1,20 @@
+# Visual Studio temporary files
+.vs/
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+
+# Build results
+build/
+bin/
+x64/
+Release/
+Debug/
+
+# OpenCV and binary files
+*.dll
+*.exe
+*.lib
+*.pdb
